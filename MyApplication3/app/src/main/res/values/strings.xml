@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="categories">
+        <item>Мобильная разработка</item>
+        <item>VR</item>
+        <item>Python</item>
+        <item>Кибергигиена</item>
+    </string-array>
+</resources>
